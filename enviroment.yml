@@ -1,0 +1,20 @@
+name: Curso_para_Crear_Proyectos_Ciencia_de_Datos
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - qt6-main
+  - matplotlib
+  - numpy
+  - pandas
+  - nltk
+  - scikit-learn
+  - wordcloud
+  - gensim
+  - python=3.12
+  - scipy
+  - seaborn
+  - ca-certificates
+  - openssl
+prefix: /home/jesusr/anaconda3/envs/Curso_para_Crear_Proyectos_Ciencia_de_Datos
