@@ -17,4 +17,8 @@ dependencies:
   - seaborn
   - ca-certificates
   - openssl
+  - ipykernel
+  - openpyxl
+  - featuretools
+  - category_encoders
 prefix: /home/jesusr/anaconda3/envs/Curso_para_Crear_Proyectos_Ciencia_de_Datos
